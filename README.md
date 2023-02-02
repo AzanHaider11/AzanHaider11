@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AzanHaider11
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Web Devolpment with Flask
+- 🌱 I’m currently experimenting with Web Devolpment
 - 💞️ I’m looking to collaborate on a Software Development project in a professional team environment
 
 <!---
